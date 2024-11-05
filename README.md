@@ -1,1 +1,1 @@
-# Cadastro-de-Produtos-com-Pytthon-e-QT-designer
+# Cadastro-de-Produtos-com-Pytthon-e-QT-Designer
